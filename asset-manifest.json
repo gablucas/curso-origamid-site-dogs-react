@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gablucas/curso-origamid-site-dogs-react/static/css/main.277f5337.css",
-    "main.js": "/gablucas/curso-origamid-site-dogs-react/static/js/main.300dcba9.js",
+    "main.js": "/gablucas/curso-origamid-site-dogs-react/static/js/main.c2aec302.js",
     "static/css/37.64f47744.chunk.css": "/gablucas/curso-origamid-site-dogs-react/static/css/37.64f47744.chunk.css",
     "static/js/37.5591c2fd.chunk.js": "/gablucas/curso-origamid-site-dogs-react/static/js/37.5591c2fd.chunk.js",
     "static/js/215.786e0fe1.chunk.js": "/gablucas/curso-origamid-site-dogs-react/static/js/215.786e0fe1.chunk.js",
@@ -18,13 +18,13 @@
     "static/media/estatisticas.svg": "/gablucas/curso-origamid-site-dogs-react/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
     "static/media/adicionar.svg": "/gablucas/curso-origamid-site-dogs-react/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
     "main.277f5337.css.map": "/gablucas/curso-origamid-site-dogs-react/static/css/main.277f5337.css.map",
-    "main.300dcba9.js.map": "/gablucas/curso-origamid-site-dogs-react/static/js/main.300dcba9.js.map",
+    "main.c2aec302.js.map": "/gablucas/curso-origamid-site-dogs-react/static/js/main.c2aec302.js.map",
     "37.64f47744.chunk.css.map": "/gablucas/curso-origamid-site-dogs-react/static/css/37.64f47744.chunk.css.map",
     "37.5591c2fd.chunk.js.map": "/gablucas/curso-origamid-site-dogs-react/static/js/37.5591c2fd.chunk.js.map",
     "215.786e0fe1.chunk.js.map": "/gablucas/curso-origamid-site-dogs-react/static/js/215.786e0fe1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.277f5337.css",
-    "static/js/main.300dcba9.js"
+    "static/js/main.c2aec302.js"
   ]
 }
