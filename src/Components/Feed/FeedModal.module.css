@@ -1,0 +1,19 @@
+.modal {
+  display: flex;
+  padding: 2rem calc(4rem + 15px) 2rem 4rem; /* Usa o calc no padding da direita para compensar a largura da barra de scroll */
+  background: rgba(0, 0, 0, .4);
+
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1000;
+}
+
+@media (max-width: 40rem) {
+  .modal {
+    padding: 2rem calc(2rem + 15px) 2rem 2rem;
+
+  }
+}

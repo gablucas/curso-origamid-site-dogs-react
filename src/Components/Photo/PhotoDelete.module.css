@@ -1,0 +1,19 @@
+.delete {
+  font-family: var(--type-first);
+  font-size: .875rem;
+  line-height: 1;
+  padding: .3rem .6rem;
+  border: 1px solid transparent;
+  border-radius: .4rem;
+  background: #DDD;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.delete:hover,
+.delete:focus {
+  outline: none;
+  border-color: #333;
+  background: #FFF;
+  box-shadow: 0 0 0 3px #EEE;
+}
