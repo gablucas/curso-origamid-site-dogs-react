@@ -1,7 +1,7 @@
 {
   "name": "dogs",
   "version": "0.1.0",
-  "homepage": "https://gablucas.github.io/curso-origamid-site-dogs-react",
+  "homepage": "https://gablucas.github.io/dogs-react",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
